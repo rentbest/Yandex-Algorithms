@@ -1,6 +1,6 @@
 # 1. Гистограмма
 
-<table border="1">
+<table border="1" text-align="left">
    <tr>
     <th>Ограничение времени</th>
     <th>1 секунда</th>
