@@ -2,7 +2,7 @@
 
 <table border="1" text-align="left">
    <tr>
-    <th>Ограничение времени</th>
+    <th align="left">Ограничение времени</th>
     <th>1 секунда</th>
    </tr>
    <tr>
