@@ -1,5 +1,17 @@
 # 1. Гистограмма
 
+<style type="text/css">
+   TABLE {
+    width: 300px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border: 2px solid white; /* Прячем рамку вокруг таблицы */
+   }
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid maroon; /* Параметры рамки */
+    text-align: left; /* Выравнивание по левому краю */
+   }
+  </style>
 <table border="1">
    <tr>
     <th>Ограничение времени</th>
@@ -18,7 +30,7 @@
     <td>стандартный вывод или output.txt</td>
   </tr>
  </table>
- 
+
 Ограничение времени 1 секунда
 Ограничение памяти 64Mb
 Ввод стандартный ввод или input.txt
