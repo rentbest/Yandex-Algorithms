@@ -4,4 +4,4 @@
 
 website: https://yandex.ru/yaintern/algorithm-training (Здесь также сможете найти задачи с прошлых сезонов)
 
-![Image alt](https://github.com/rentbest/Yandex-Algorithms/raw/main/images/img.png)
+![Image alt](https://github.com/rentbest/Yandex-Algorithms/raw/main/images/main.png)
